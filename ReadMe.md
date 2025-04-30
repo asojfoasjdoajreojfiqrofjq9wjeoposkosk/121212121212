@@ -9,7 +9,7 @@ Created by **Abdulla**, this bot merges modern AI capabilities with high flexibi
 
 ✅ **AI Conversations** powered by Groq & Gemini APIs – smart, ethical, context-aware replies  
 🎨 **Image Generation & Prompt Enhancement** using Gemini models  
-🖼️ **Image Analysis** of uploaded photos via Gemini-1.5-Flash model 
+🖼️ **Image Analysis** of uploaded photos via Gemini-1.5-pro model 
 🧮 **Math Solver** inside conversations  
 🔊 **Voice-to-Text Recognition + TTS** using Groq Whisper and Edge TTS  
 📚 **Smart Memory Management** – Remembers and summarizes previous chats  
