@@ -87,7 +87,8 @@ python3 bot.py
 │   └── weather_ai.py
 ├── BOT/
 │   ├── commands/
-│   │   ├── imagine_commands.py
+│   │   ├── image_commands.py
+│   │   ├── interesting_commands.py
 │   │   ├── memory_commands.py
 │   │   ├── mode_commands.py
 │   │   ├── reminder_commands.py
