@@ -32,6 +32,10 @@ cd 121212121212
 # 2. Install Dependencies
 pip install -r requirements.txt
 
+# if you can use Linux, you must run with 
+pip3 install -r requirements.txt
+
+
 # 3. Configure Environment Variables
 # Add your API keys inside the .env file
 

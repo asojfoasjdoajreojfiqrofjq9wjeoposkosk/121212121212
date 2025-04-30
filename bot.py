@@ -21,7 +21,7 @@ from BOT.handler import DiscordResponseHandler
 from BOT.bot_config import DISCORD_BOT_TOKEN
 from logger_config import logger
 from BOT.reminder import ReminderHandler
-from BOT.commands.imagine_commands import ImagineCommands
+from BOT.commands.image_commands import ImagineCommands
 from BOT.commands.mode_commands import ModeCommands
 from BOT.commands.mode_switch_commands import ModeSwitchCommands
 from BOT.commands.memory_commands import MemoryCommands
