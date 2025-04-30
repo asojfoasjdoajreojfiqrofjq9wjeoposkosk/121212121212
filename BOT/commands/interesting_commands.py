@@ -1,7 +1,5 @@
-import discord
 from discord import app_commands, Interaction
 from discord.ext import commands
-
 from AI.text_ai import TextAIHandler
 from database.db import DatabaseManager
 from BOT.handler import DiscordResponseHandler

@@ -229,10 +229,15 @@ Here are real examples of `abdullaxowsai` in action:
 ![📂 File Analyze](screenshots/code_file_analyze.png)
 
 
-### 🌟 Get Facts Instantly
+### 🌟 Interesting Commands
 - `getfact.png` – Instantly provides interesting and verified facts
 ![Get Facts](screenshots/getfact.png)
 
+- `quote.png` – Generates a random motivational or philosophical quote from AI  
+![Quote](screenshots/quote.png)
+
+- `explain_code.png` – Analyzes and explains code snippets in clear, beginner-friendly language  
+![Explain Code](screenshots/explain_code.png)
 
 ### 🧪 Prompt Laboratory
 - `promptlab.png` – Test your custom prompts in a live lab environment
@@ -253,6 +258,7 @@ Here are real examples of `abdullaxowsai` in action:
 - `weather.png` – Get real-time weather reports for your location
 ![Weather](screenshots/weather.png)
 
+=
 
 ## ✨ Why `abdullaxowsai` is Special
 
